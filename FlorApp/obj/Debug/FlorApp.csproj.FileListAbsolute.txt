@@ -1,0 +1,646 @@
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\FlorApp.dll.config
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\FlorApp.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\FlorApp.pdb
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\csc.exe
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\csc.exe.config
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\csc.rsp
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\csi.exe
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\csi.exe.config
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\csi.rsp
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.AppContext.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Console.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\vbc.exe
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\vbc.exe.config
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\vbc.rsp
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Antlr3.Runtime.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Newtonsoft.Json.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Helpers.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Mvc.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Optimization.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Razor.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.WebPages.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\WebGrease.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Helpers.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Mvc.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Optimization.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.Razor.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.WebPages.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Newtonsoft.Json.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Antlr3.Runtime.pdb
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\obj\Debug\FlorApp.csprojAssemblyReference.cache
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\obj\Debug\FlorApp.csproj.CoreCompileInputs.cache
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\obj\Debug\FlorApp.csproj.CopyComplete
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\obj\Debug\FlorApp.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\obj\Debug\FlorApp.pdb
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\BouncyCastle.Crypto.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Google.Protobuf.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\K4os.Compression.LZ4.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\K4os.Hash.xxHash.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\MySql.Data.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Renci.SshNet.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Buffers.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Memory.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Numerics.Vectors.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Ubiety.Dns.Core.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Zstandard.Net.dll
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Google.Protobuf.pdb
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Google.Protobuf.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\K4os.Compression.LZ4.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\K4os.Hash.xxHash.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\MySql.Data.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\Renci.SshNet.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Buffers.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Memory.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Numerics.Vectors.xml
+C:\Users\Josue Perez\Desktop\Asp.Net Bryan\FlorApp\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\FlorApp.dll.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\FlorApp.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\FlorApp.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\csc.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\csc.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\csc.rsp
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\csi.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\csi.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\csi.rsp
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.AppContext.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Console.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Net.Http.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\vbc.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\vbc.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\vbc.rsp
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Antlr3.Runtime.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\BouncyCastle.Crypto.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Google.Protobuf.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\K4os.Compression.LZ4.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\K4os.Hash.xxHash.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\MySql.Data.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Newtonsoft.Json.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Renci.SshNet.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Buffers.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Memory.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Numerics.Vectors.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Helpers.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Mvc.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Optimization.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Razor.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.WebPages.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Ubiety.Dns.Core.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\WebGrease.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Zstandard.Net.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Google.Protobuf.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Google.Protobuf.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\K4os.Compression.LZ4.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\K4os.Hash.xxHash.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\MySql.Data.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Renci.SshNet.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Buffers.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Memory.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Numerics.Vectors.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Helpers.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Mvc.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Optimization.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.Razor.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.WebPages.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Newtonsoft.Json.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Antlr3.Runtime.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\obj\Debug\FlorApp.csprojAssemblyReference.cache
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\obj\Debug\FlorApp.csproj.CoreCompileInputs.cache
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\obj\Debug\FlorApp.csproj.CopyComplete
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\obj\Debug\FlorApp.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\FlorApp-main\FlorApp\obj\Debug\FlorApp.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\FlorApp.dll.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\FlorApp.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\FlorApp.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\csc.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\csc.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\csc.rsp
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\csi.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\csi.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\csi.rsp
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.AppContext.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Console.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Net.Http.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\vbc.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\vbc.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\vbc.rsp
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Antlr3.Runtime.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\BouncyCastle.Crypto.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Google.Protobuf.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\K4os.Compression.LZ4.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\K4os.Hash.xxHash.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\MySql.Data.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Newtonsoft.Json.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Renci.SshNet.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Buffers.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Memory.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Numerics.Vectors.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Helpers.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Mvc.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Optimization.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Razor.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.WebPages.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Ubiety.Dns.Core.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\WebGrease.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Zstandard.Net.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Google.Protobuf.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Google.Protobuf.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\K4os.Compression.LZ4.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\K4os.Hash.xxHash.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\MySql.Data.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Renci.SshNet.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Buffers.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Memory.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Numerics.Vectors.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Helpers.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Mvc.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Optimization.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.Razor.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.WebPages.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Newtonsoft.Json.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Antlr3.Runtime.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\obj\Debug\FlorApp.csprojAssemblyReference.cache
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\obj\Debug\FlorApp.csproj.CoreCompileInputs.cache
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\obj\Debug\FlorApp.csproj.CopyComplete
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\obj\Debug\FlorApp.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\obj\Debug\FlorApp.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Flurl.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Flurl.Http.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.ValueTuple.dll
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Flurl.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Flurl.xml
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\Flurl.Http.pdb
+C:\Users\c5iadmin\Desktop\FlorApp\FlorApp-main\Flor\FlorApp\bin\System.ValueTuple.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\FlorApp.dll.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\FlorApp.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\FlorApp.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\csc.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\csc.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\csc.rsp
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\csi.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\csi.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\csi.rsp
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.Managed.Core.targets
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.AppContext.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Collections.Immutable.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Console.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Globalization.Calendars.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.IO.Compression.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.IO.FileSystem.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Net.Http.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Net.Sockets.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Reflection.Metadata.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.ValueTuple.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Xml.XmlDocument.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Xml.XPath.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\vbc.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\vbc.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\vbc.rsp
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\VBCSCompiler.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\roslyn\VBCSCompiler.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Antlr3.Runtime.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\BouncyCastle.Crypto.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Flurl.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Flurl.Http.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Google.Protobuf.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\K4os.Compression.LZ4.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\K4os.Compression.LZ4.Streams.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\K4os.Hash.xxHash.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Microsoft.Web.Infrastructure.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\MySql.Data.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Newtonsoft.Json.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Renci.SshNet.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Buffers.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Memory.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Numerics.Vectors.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.ValueTuple.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Helpers.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Mvc.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Optimization.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Razor.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.WebPages.Deployment.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.WebPages.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.WebPages.Razor.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Ubiety.Dns.Core.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\WebGrease.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Zstandard.Net.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Flurl.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Flurl.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Flurl.Http.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Google.Protobuf.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Google.Protobuf.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\K4os.Compression.LZ4.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\K4os.Compression.LZ4.Streams.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\K4os.Hash.xxHash.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\MySql.Data.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Renci.SshNet.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Buffers.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Memory.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Numerics.Vectors.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.ValueTuple.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Helpers.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Mvc.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Optimization.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.Razor.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.WebPages.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.WebPages.Deployment.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\System.Web.WebPages.Razor.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Newtonsoft.Json.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Antlr3.Runtime.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\obj\Debug\FlorApp.csprojAssemblyReference.cache
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\obj\Debug\FlorApp.csproj.CoreCompileInputs.cache
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\obj\Debug\FlorApp.csproj.CopyComplete
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\obj\Debug\FlorApp.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\Flor\FlorApp\obj\Debug\FlorApp.pdb
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\FlorApp.dll.config
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\FlorApp.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\FlorApp.pdb
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\csc.exe
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\csc.exe.config
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\csc.rsp
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\csi.exe
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\csi.exe.config
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\csi.rsp
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.AppContext.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Console.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\vbc.exe
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\vbc.exe.config
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\vbc.rsp
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Antlr3.Runtime.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\BouncyCastle.Crypto.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Flurl.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Flurl.Http.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Google.Protobuf.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\K4os.Hash.xxHash.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\MySql.Data.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Newtonsoft.Json.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Renci.SshNet.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Buffers.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Memory.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Numerics.Vectors.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.ValueTuple.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Helpers.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Mvc.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Optimization.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Razor.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Ubiety.Dns.Core.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\WebGrease.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Zstandard.Net.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Flurl.pdb
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Flurl.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Flurl.Http.pdb
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Google.Protobuf.pdb
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Google.Protobuf.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\K4os.Hash.xxHash.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\MySql.Data.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Renci.SshNet.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Buffers.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Memory.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Numerics.Vectors.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.ValueTuple.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Helpers.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Mvc.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Optimization.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.Razor.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Newtonsoft.Json.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Antlr3.Runtime.pdb
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.csprojAssemblyReference.cache
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.csproj.CoreCompileInputs.cache
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.csproj.CopyComplete
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.dll
+C:\Users\Marketing\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\FlorApp.dll.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\FlorApp.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\FlorApp.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\csc.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\csc.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\csc.rsp
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\csi.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\csi.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\csi.rsp
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.CSharp.Core.targets
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.Managed.Core.targets
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.AppContext.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Collections.Immutable.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Console.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Globalization.Calendars.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.Compression.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.FileSystem.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Net.Http.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Net.Sockets.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Reflection.Metadata.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.ValueTuple.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.ReaderWriter.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.XmlDocument.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.XPath.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\vbc.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\vbc.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\vbc.rsp
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\VBCSCompiler.exe
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\roslyn\VBCSCompiler.exe.config
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Antlr3.Runtime.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\BouncyCastle.Crypto.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Flurl.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Flurl.Http.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Google.Protobuf.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.Streams.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\K4os.Hash.xxHash.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Microsoft.Web.Infrastructure.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\MySql.Data.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Newtonsoft.Json.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Renci.SshNet.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Buffers.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Memory.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Numerics.Vectors.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.ValueTuple.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Helpers.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Mvc.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Optimization.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Razor.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Deployment.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Razor.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Ubiety.Dns.Core.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\WebGrease.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Zstandard.Net.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Flurl.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Flurl.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Flurl.Http.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Google.Protobuf.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Google.Protobuf.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\K4os.Compression.LZ4.Streams.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\K4os.Hash.xxHash.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\MySql.Data.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Renci.SshNet.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Buffers.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Memory.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Numerics.Vectors.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.ValueTuple.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Helpers.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Mvc.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Optimization.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.Razor.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Deployment.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\System.Web.WebPages.Razor.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Newtonsoft.Json.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Antlr3.Runtime.pdb
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.csprojAssemblyReference.cache
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.csproj.CoreCompileInputs.cache
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.csproj.CopyComplete
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.dll
+\\SRV-00-001\FolderRedir$\bcampos\Desktop\sembradores-master\FlorApp\obj\Debug\FlorApp.pdb

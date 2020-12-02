@@ -1,0 +1,464 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+
+body {
+    /*padding-bottom: 20px; LO COMENTE PORQUE CAUSABA UN PADDING BOTTOM EN EL LOGIN SCREEN*/
+    background-color: #f0f7f0;
+    font-family: 'Cairo', sans-serif    !important;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#navBarContainer {
+    background-color: #00c292 !important;
+}
+
+.jumbotron {
+    background-color: #e6e6e6 !important;
+    padding-top: 40px;
+    padding-bottom: 0px;
+}
+
+    .jumbotron h2 {
+        font-weight: 600;
+    }
+
+#homelink {
+    text-decoration: none;
+}
+
+#minilogo {
+    width: 42px;
+}
+
+.navbar-brand {
+    font-weight: 700 !important;
+    color: white
+}
+.navbar-nav {
+    background-color: #f0f7f0 !important;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #43bb43;
+}
+    .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+        background-color: #2c732c;
+    }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #479a47;
+}
+
+.whitebackground {
+    background-color: white;
+    border-radius: 9px;
+    margin-top: 20px;
+    /*shadow effect*/
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.09);
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.09);
+}
+
+.innerbox h1 {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 0px;
+    color: #00c292;
+    font-size: 40px;
+}
+
+.innerbox h3 {
+    margin: 0px;
+    padding: 20px;
+}
+
+.btn_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    margin-top: 10px;
+}
+
+.custom_btn {
+    width: 100%;
+    font-size: 26px;
+    margin-top: 10px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.09);
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.09);
+}
+
+.custom_green {
+    background-color: #00c292;
+}
+
+.custom_red {
+    background-color: #fd805a;
+    border-color: #fd450d;
+}
+
+    .custom_red:hover {
+        background-color: #db572e;
+    }
+
+
+#main_banner {
+    background-color: #00c292 !important;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+    #main_banner h1 {
+        font-size: 53px;
+        font-weight: 600;
+        padding-bottom: 26px;
+        color: #e7ffb8;
+    }
+
+}
+
+.btc_div {
+    background-color: red;
+}
+.pt-100 {
+    padding-top: 100px;
+}
+
+.news_div {
+    display: none;
+    background-color: #ffb703;
+    border-radius: 9px;
+}
+.pay_btn_wrap {
+    display:flex;
+    flex-direction:column;
+}
+.custom_btn_green {
+    width: 192px;
+    font-size: 20px;
+}
+.custom_btn_blue {
+    width: 192px;
+    font-size: 20px;
+}
+.btn {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 13px !important;
+    outline:none !important;
+}
+.ciclo_wrap {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: white;
+    padding: 30px;
+    border: 1px solid #d8d8d8;
+    min-width: 250px;
+}
+.ciclo_wrap img {
+    width:100px;
+    cursor:pointer;
+}
+.ciclo_wrap button {
+    display:none;
+}
+.ciclo_inactive img {
+    filter: grayscale(100%);
+}
+.ciclo_inactive button {
+    display:block !important;
+}
+.todos_ciclo_wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.status_wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -22px;
+}
+    
+.mr-ml {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+/*COLOR DE FONDO DE BARRA DE NAVEGACION*/
+.navbar-inverse {
+    background-color: #f0f7f0 !important;
+    border-color: #f0f7f0 !important;
+    color: white !important;
+    height: 60px;
+}
+#nav-logo {
+    width:190px;
+}
+.navbar-inverse .navbar-brand {
+    color:white !important;
+    font-size:20px;
+    
+}
+.btn_pago_container {
+    display: flex;
+    justify-content: center;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #2f8648 !important;
+    font-size: 20px;
+    font-weight: 600;
+}
+.navbar-inverse .navbar-nav > li > i {
+    color: #2f8648 !important;
+    font-size: 18px;
+}
+.earn-col {
+    background-color: white;
+    border-radius: 9px;
+    margin-right: 10px;
+    min-width: 250px;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-left: 37px;
+    padding-bottom: 17px;
+    border:1px solid #d8d8d8;
+
+}
+    .earn-col h1 {
+        font-size: 46px !important;
+        color: #479a47;
+    }
+    .earn-col h3 {
+        color: #969696;
+    }
+.pay_btn_wrap {
+    margin-right: 20px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    align-items: center;
+    padding-top: 19px;
+}
+.news_div {
+    width: fit-content;
+    padding: 0px 20px 0px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 10px;
+}
+
+/*ESTILO PARA TITULO PRINCIPAL EN DASHBOARD*/
+.username-title {
+    font-weight: 800 !important;
+    color: #c9ffdb;
+}
+/*ESTILO PARA TITULO PRINCIPAL EN OTRAS VIEWS*/
+.username-title2 {
+    font-weight: 700 !important;
+    color: #0f9f3f;
+}
+.dash {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.nav > li > a {
+    margin-left: 5px;
+    margin-right: 30px;
+    position: relative;
+    display: initial;
+    padding: 0px;
+}
+.collapse {
+    /*margin-top: 13px !important;*/
+}
+.nav-container {
+    
+}
+#nav-list {
+    height: 168px; /* previously 130px */
+    margin-top: 10px;
+}
+    #nav-list li {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 13px;
+    }
+
+.welcome-master {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.welcome-wrap {
+    background-color: #029a35;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid #06822f;
+}
+.welcome-wrap h2 {
+    color:white;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #5cb85c !important;
+}
+@media (min-width:768px) {
+    #nav-list {
+        height:auto;
+    }
+    #btc-img {
+        display:block !important;
+    }
+}
+
+.login-form {
+    margin-top:0px !important;
+}
+.login-screen {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    FLEX-DIRECTION: COLUMN;
+}
+.login-box {
+    background-color:white;
+    padding:50px;
+    border-radius:10px;
+}
+.spacer-20 {
+    height:20px;
+}
+.spacer-40 {
+    height:40px;
+}
+.error-text {
+    color:red;
+}
+.login-btn-wrap {
+    display: flex;
+    justify-content: center;
+}
+.pay-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    FLEX-DIRECTION: COLUMN;
+}
+.pay-title {
+    max-width:300px;
+}
+.btc-accepted {
+    width:120px;
+}
+.wallet-wrap {
+    display: flex;
+}
+.mr-10 {
+    margin-right:10px;
+}
+.btn-retirar {
+    color: #fff;
+    background-color: #ec6969;
+    border-color: #cc4c4c;
+    outline:none;
+}
+    .btn-retirar:hover {
+        background-color:#d85757;
+        color:white;
+    }
+.btn-logout {
+    position: relative;
+    top: -10px;
+}
+.btn-login {
+    position: relative;
+    top: -10px;
+}
+@media (min-width: 768px) {
+    #nav-list {
+        height: 50px !important;
+    }
+}
+#btc-img {
+    width: 380px;
+    position: relative;
+    right: 100px;
+    display:none;
+}
+.underline {
+    width: 79px;
+    border-bottom: 4px solid #96d496;
+}
+.underline-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+/*LANDING SPECS*/
+.body-content {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.banner-wrap {
+    margin: 0px;
+    padding: 0px;
+    height: 454px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #019934;
+}
+.banner-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1110px;
+}
+.title-div h1 {
+    color: #c9ffdb;
+    font-size: 48px;
+    font-weight: 700;
+}
+.title-div h4 {
+    font-size: 36px;
+    color: white;
+}
+#banner-img {
+    width: 560px;
+}
+#transaction-table {
+    font-size: 18px;
+}
+.restar {
+    color: #d9534f;
+}
+.sumar {
+    color: #5cb85c;
+}

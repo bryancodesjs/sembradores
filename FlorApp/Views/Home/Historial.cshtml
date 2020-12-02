@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewBag.Title = "Historial";
+}
+
+<!-- VENTANA DE HISTORIAL DE TRANSACCIONES -->
+<!-- EXISTEN 4 TIPOS DE TRANSACCIONES:
+    1. DEPOSITOS (AGREGAR FONDOS)
+    2. SIEMBRA (PARTICIPAR EN UN CICLO)
+    3. COSECHA (LOS BENEFICIOS SE SUMAN AL SALDO)
+    4. RETIRO A LA WALLET
+    5. TRANSFERENCIA A UN TERCERO-->
+
+<div class="container-fluid pt-100">
+
+    <h1 class="username-title2">Historial</h1>
+    <h4>Listado de transacciones realizadas</h4>
+    <hr />
+    
+</div>
+<div class="transaction-wrap">
+    <div class="transaction-list">
+
+        <table class="table" id="transaction-table">
+            <thead>
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">Tipo</th>
+                    <th scope="col">Monto</th>
+                    <th scope="col">Fecha</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><i class="fa fa-sign-in" aria-hidden="true"></i></td>
+                    <th class="sumar" scope="row">Deposito</th> <!-- DEPOSITO DE BITCOINS EN EL SISTEMA-->
+                    <th class="sumar" scope="row">+$100</th> <!-- AGREGADO AL SALDO PRINCIPAL-->
+                    <td>@DateTime.Now.ToShortDateString()</td>
+                </tr>
+                <tr>
+                    <td><i class="fa fa-envira" aria-hidden="true"></i></td>
+                    <th class="restar" scope="row">Siembra</th> <!-- LA SIEMBRA SUCEDE CUANDO EL USUARIO COMPRA UNA POSICION EN LA FLOR-->
+                    <th class="restar" scope="row">-$250</th> <!-- SUSTRAIDO DEL SALDO PRINCIPAL-->
+                    <td>@DateTime.Now.ToShortDateString()</td>
+                </tr>
+                <tr>
+                    <td><i class="fa fa-money" aria-hidden="true"></i></td>
+                    <th class="sumar" scope="row">Cosecha</th> <!-- UNA COSECHA TIENE LUGAR CUANDO EL USUARIO REFIERE 2 USUARIOS Y RECIBE SU PAGO POR LA FLOR-->
+                    <th class="sumar" scope="row">+$250</th> <!-- AGREGADO AL SALDO PRINCIPAL-->
+                    <td>@DateTime.Now.ToShortDateString()</td>
+                </tr>
+                <tr>
+                    <td><i class="fa fa-btc" aria-hidden="true"></i></td>
+                    <th class="restar" scope="row">Retiro</th> <!-- RETIRO DE FONDOS HACIA LA WALLET-->
+                    <th class="restar" scope="row">-$400</th> <!-- SUSTRAIDO DEL SALDO PRINCIPAL-->
+                    <td>@DateTime.Now.ToShortDateString()</td>
+
+                </tr>
+                <tr>
+                    <td><i class="fa fa-handshake-o" aria-hidden="true"></i></td>
+                    <th class="restar" scope="row">Transferencia <span class="trans-user font-weight-bold">(mjimenez)</span></th> <!-- TRANSFERENCIA DE FONDOS DE UN USUARIO A OTRO-->
+                    <th class="restar" scope="row">-$70</th> <!-- SUSTRAIDO DEL SALDO PRINCIPAL-->
+                    <td>@DateTime.Now.ToShortDateString()</td>
+
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>
+

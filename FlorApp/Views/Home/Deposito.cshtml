@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Deposito";
+}
+
+<div class="container-fluid pt-100">
+    
+    <h1 class="username-title2">Depósito</h1>
+    <hr />
+    
+</div>
+<div class="pay-screen">
+
+
+    <div class="pay-title text-center">
+        <h4 class="">Porfavor indica el monto que deseas depositar (USD):</h4>
+    </div>
+
+    <input type="number" class="form-control" id="monto" />
+    <button type="submit" class="btn btn-success custom_btn_green" id="Comprar">Depositar</button>
+    <div class="spacer-20">
+
+    </div>
+    <img class="btc-accepted" src="~/Content/img/btc.png" />
+
+    <div class="spacer-40">
+
+    </div>
+    <div class="container text-center" id="DetallesCompra">
+
+        <h4 class="">Envíe los fondos a la dirección indicada a continuación:</h4>
+
+        <div class="card">
+            <img class="card-img-top" id="imgQr">
+            <div class="card-body">
+                <br />
+                <h4>
+                    Dirección de envío:  <label id="Direccion"></label> <a><i class="fa fa-files-o" aria-hidden="true"></i></a> <!-- ESTE BOTON SIRVE PARA COPIAR LA WALLET AL PORTAPAPELES UTILIANDO JS-->
+                </h4>
+                
+                
+
+                <h4>
+                    Cantidad a enviar en BTC:  <label id="BTCComprados"></label>
+                </h4>
+                
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+<script src="~/Scripts/js/Home.js"></script>

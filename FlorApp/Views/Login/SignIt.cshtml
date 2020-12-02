@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignIt</title>
+    @*<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">*@
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/CustomLogin.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    
+    <div class="login-screen">
+        <h2>LOGO AQUI</h2>
+        <h4>¿Aún no eres miembro? <a href="/Login/Index">Regístrate</a></h4>
+        <div class="spacer-40"></div>
+        <div class="login-box">
+            <h5 class="error-text"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> El usuario o la contraseña insertados <br />no coinciden. Intente otra vez.</h5>
+
+            <div class="login-form">
+                <form>
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input id="Usuario" type="text" class="form-control" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <label>Password</label>
+                        <input id="Clave" type="password" class="form-control" placeholder="Contraseña">
+                    </div>
+                    <div class="login-btn-wrap">
+                        <button class="btn btn-success custom_btn_green" id="SignItbtn" type="submit">Ingresar</button>
+                    </div>
+
+
+                </form>
+                <div class="login-btn-wrap">
+                    <a href="">¿Olvidaste tu contraseña?</a>
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="spacer-20"></div>
+
+        <h5><a href="/Landing">Volver a la Página Principal <i class="fa fa-home" aria-hidden="true"></i></a></h5>
+    </div>
+
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/js/SignIt.js"></script>
+</body>
+</html>

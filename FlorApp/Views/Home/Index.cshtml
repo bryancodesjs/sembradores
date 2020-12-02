@@ -1,0 +1,177 @@
+﻿@{ ViewBag.Title = "Home Page"; }
+
+<div class="container-fluid pt-100 welcome-master">
+    <div class="welcome-wrap">
+        <div class="welcome-msj">
+            <h2>¡Bienvenido!</h2>
+            <h1 class="username-title"><i class="fa fa-user-circle" aria-hidden="true"></i> @Session["Usuario"].ToString()</h1>
+            @*<h2>Direccion BTC: @Session["Wallet"].ToString()</h2>*@
+        </div>
+        
+        <div class="btc-img-wrap">
+
+            <img id="btc-img" src="~/Content/img/btc-grass.png" />
+        </div>
+    </div>
+    
+    
+</div>
+
+<div class="row">
+    <div class=" news_div">
+        <h3><i class="fa fa-bullhorn" aria-hidden="true"></i> We've got some amazing news for you!</h3>
+    </div>
+</div>
+
+<div class="row">
+
+    <div class="dash">
+
+        <div class="col-md-4 earn-col">
+            <h1>$324.50</h1>
+            <h3><i class="fa fa-bar-chart" aria-hidden="true"></i> Mi Balance</h3>
+        </div>
+
+        <div class="col-md-4 earn-col">
+            <h1>$1,034.60</h1>
+            <h3><i class="fa fa-line-chart" aria-hidden="true"></i>  Mis Ganancias</h3>
+        </div>
+
+        <div class="col-md-4 pay_btn_wrap">
+            <a href="/Home/Deposito">
+                <button class="btn btn-success custom_btn_green"><i class="fa fa-btc" aria-hidden="true"></i> Depositar</button>
+            </a>
+            
+            <a href="/Home/Retiro">
+                <button class="btn btn-retirar custom_btn_blue"><i class="fa fa-money" aria-hidden="true"></i> Retirar</button>
+            </a>
+            
+        </div>
+
+    </div>
+    
+
+    @*<div class="col-md-4">
+            <h2>ID de Referido.</h2>
+
+            <h3>@Session["Email"].ToString()</h3>
+        </div>
+        <div class="col-md-4">
+            <h2>Realizar Depositos</h2>
+            <p>Puedes agregar bitcoin y ver el estado de tu cuenta.</p>
+            <p><a class="btn btn-success" href="/Home/Deposito">Gestionar Depositos</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Unirme a un Grupo</h2>
+            <p>Introduce el ID de un referido para unirte al grupo.</p>
+            <input id="IdReferido" type="text" placeholder="ID del Referido" />
+            <input id="btnBuscarReferido" type="button" class="btn btn-danger" value="Unirse" />
+        </div>*@
+
+    <div class="container" style="margin-top:80px;">
+        <h1 class="text-center">Mis Ciclos</h1>
+        <div class="underline-wrap">
+            <div class="underline"></div>
+        </div>
+        <div class="row todos_ciclo_wrap">
+            <div class="col-lg-3 text-center ciclo_wrap">
+                <a>
+                    <img src="~/Content/img/leaf.png" />
+                    <h3><b>$25</b></h3>
+                    <h4>SEMBRADOR</h4>
+                    <h3>BÁSICO</h3>
+                    <div class="status_wrap">
+                        <div class="referidos mr-ml">
+                            <h3><i class="fa fa-users" aria-hidden="true"></i> 1</h3>
+                        </div>
+                        <div class="repeticiones mr-ml">
+                            <h3><i class="fa fa-refresh" aria-hidden="true"></i> 4</h3>
+                        </div>
+                    </div>
+                    <div class="btn_pago_container">
+                        <button class="btn btn-success custom_btn_green">Sembrar</button>
+                    </div>
+                    
+                </a>
+            </div>
+
+
+            <div class="col-lg-3 text-center ciclo_wrap ciclo_inactive">
+                <img src="~/Content/img/leaf.png" />
+                <h3><b>$60</b></h3>
+                <h3>INTERMEDIO</h3>
+                <div class="status_wrap">
+                    <div class="referidos mr-ml">
+                        <h3><i class="fa fa-users" aria-hidden="true"></i> 0</h3>
+                    </div>
+                    <div class="repeticiones mr-ml">
+                        <h3><i class="fa fa-refresh" aria-hidden="true"></i> 4</h3>
+                    </div>
+                </div>
+                <div class="btn_pago_container">
+                    <button class="btn btn-success custom_btn_green">Sembrar</button>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 text-center ciclo_wrap ciclo_inactive">
+                <img src="~/Content/img/leaf.png" />
+                <h3><b>$120</b></h3>
+                <h3>AVANZADO</h3>
+                <div class="status_wrap">
+                    <div class="referidos mr-ml">
+                        <h3><i class="fa fa-users" aria-hidden="true"></i> 0</h3>
+                    </div>
+                    <div class="repeticiones mr-ml">
+                        <h3><i class="fa fa-refresh" aria-hidden="true"></i> 4</h3>
+                    </div>
+                </div>
+                <div class="btn_pago_container">
+                    <button class="btn btn-success custom_btn_green">Sembrar</button>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 text-center ciclo_wrap ciclo_inactive">
+                <img src="~/Content/img/leaf.png" />
+                <h3><b>$250</b></h3>
+                <h3>PRO</h3>
+                <div class="status_wrap">
+                    <div class="referidos mr-ml">
+                        <h3><i class="fa fa-users" aria-hidden="true"></i> 0</h3>
+                    </div>
+                    <div class="repeticiones mr-ml">
+                        <h3><i class="fa fa-refresh" aria-hidden="true"></i> 4</h3>
+                    </div>
+                </div>
+                <div class="btn_pago_container">
+                    <button class="btn btn-success custom_btn_green">Sembrar</button>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 text-center ciclo_wrap ciclo_inactive">
+                <img src="~/Content/img/leaf.png" />
+                <h3><b>$500</b></h3>
+                <h3>SUPER PRO</h3>
+                <div class="status_wrap">
+                    <div class="referidos mr-ml">
+                        <h3><i class="fa fa-users" aria-hidden="true"></i> 0</h3>
+                    </div>
+                    <div class="repeticiones mr-ml">
+                        <h3><i class="fa fa-refresh" aria-hidden="true"></i> 4</h3>
+                    </div>
+                </div>
+                <div class="btn_pago_container">
+                    <button class="btn btn-success custom_btn_green">Sembrar</button>
+                </div>
+            </div>
+
+
+        </div>
+        
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+@*<script src="~/Scripts/js/Home.js"></script>*@
